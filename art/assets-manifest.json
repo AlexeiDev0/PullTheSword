@@ -1,0 +1,306 @@
+{
+  "generator": "built-in image_gen",
+  "date": "2026-10-05",
+  "assets": [
+    {
+      "name": "bg_valley",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-9a63db89-95f2-4423-9645-b427789f4418.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\bg_valley.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: portrait background illustration, roughly 2:3 aspect ratio. Forgotten valley at twilight, layered misty mountains, ancient stone arch, moss and mint green fireflies, dark teal palette. Environment only, NO sword, NO main object, NO people. Keep the middle and bottom middle visually calm and empty to place a foreground relic and rock, brighter focal scenery at edges and upper third. Full bleed."
+    },
+    {
+      "name": "bg_ice",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-fcfb60fb-d707-4ef7-b05b-9519b6c5f490.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\bg_ice.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: portrait background illustration, roughly 2:3 aspect ratio. Frozen lands, blue ice cave with sharp crystalline pillars, snowy mountains and luminous cyan crystals. Environment only, NO sword, NO main object, NO people. Keep the middle and bottom middle visually calm and empty to place a foreground relic and rock, brighter focal scenery at edges and upper third. Full bleed."
+    },
+    {
+      "name": "bg_volcano",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-cf7fc216-5fb8-4703-9aa0-2c8b05baa432.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\bg_volcano.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: portrait background illustration, roughly 2:3 aspect ratio. Volcanic lands, black basalt caves and distant lava rivers, red orange glowing embers. Environment only, NO sword, NO main object, NO people. Keep the middle and bottom middle visually calm and empty to place a foreground relic and rock, brighter focal scenery at edges and upper third. Full bleed."
+    },
+    {
+      "name": "bg_forest",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-e8127ee2-07bf-4db1-83c1-69aa56abdb48.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\bg_forest.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: portrait background illustration, roughly 2:3 aspect ratio. Ancient forest, tall twisted roots, giant trees, emerald bioluminescent leaves and fireflies. Environment only, NO sword, NO main object, NO people. Keep the middle and bottom middle visually calm and empty to place a foreground relic and rock, brighter focal scenery at edges and upper third. Full bleed."
+    },
+    {
+      "name": "bg_kingdom",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-7d5c7db7-2742-4527-8a20-4e4279620146.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\bg_kingdom.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: portrait background illustration, roughly 2:3 aspect ratio. Lost kingdom, ruined sandstone palace columns and distant royal arches, warm gold light. Environment only, NO sword, NO main object, NO people. Keep the middle and bottom middle visually calm and empty to place a foreground relic and rock, brighter focal scenery at edges and upper third. Full bleed."
+    },
+    {
+      "name": "relic_old_sword",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-eee27ee9-5ef5-4542-8f59-5a9ff011d683.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_old_sword.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Old Sword: a weathered short iron sword with chipped silver blade, simple leather grip and old bronze crossguard. A single complete object, upright front three-quarter view, mint accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_iron_sword",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-6b145cfc-ef32-4e4f-81a3-e21ad7e3886a.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_iron_sword.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Iron Sword: heavy polished broad steel sword with riveted gunmetal crossguard and green gemstone pommel. A single complete object, upright front three-quarter view, mint accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "bg_cosmic",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-0fd4dd80-4eec-48c5-9773-e15e575fcc01.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\bg_cosmic.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: portrait background illustration, roughly 2:3 aspect ratio. Cosmic ruins, floating violet stone islands, distant ringed planets and ancient star gates, purple nebula. Environment only, NO sword, NO main object, NO people. Keep the middle and bottom middle visually calm and empty to place a foreground relic and rock, brighter focal scenery at edges and upper third. Full bleed."
+    },
+    {
+      "name": "relic_glacier_spear",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-84cbaf16-c055-4413-9230-c35b1553d14d.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_glacier_spear.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Glacier Spear: narrow long silver spear with crystalline cyan spearhead and snowflake decorations. A single complete object, upright front three-quarter view, cyan accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_flame_sword",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-08a1a502-65a6-4a5e-892e-fe6156551dea.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_flame_sword.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Flame Sword: obsidian longsword with molten orange cracks in blade and gold guard, ruby gemstone. A single complete object, upright front three-quarter view, orange accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_winter_crown",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-d8218db1-2c64-498b-8f03-60cffe9ddde8.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_winter_crown.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Winter Crown: royal silver crown with tall ice crystal points and luminous sapphire gems. A single complete object, upright front three-quarter view, cyan accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_lava_axe",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-9c509a46-a185-4d98-871f-0978dac50c63.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_lava_axe.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Lava Axe: heavy black basalt battle axe, wide fiery orange cutting edge and bronze shaft. A single complete object, upright front three-quarter view, orange accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_valley_spear",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-66eb4b81-2a5f-470f-a36b-ba828b627c04.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_valley_spear.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Valley Spear: long oak spear, silver leaf shaped spearhead and bronze fittings with mint gemstone. A single complete object, upright front three-quarter view, mint accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_burning_spear",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-42764702-b2c7-4dee-b061-6eb6ff6f280e.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_burning_spear.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Burning Spear: long dark spear with three pronged glowing ember spearhead and red gold fittings. A single complete object, upright front three-quarter view, orange accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_fire_hammer",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-b1e43568-9d30-4387-a514-7fb4a7652664.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_fire_hammer.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Fire Hammer: massive squared obsidian war hammer with molten orange runes, heavy gold fittings. A single complete object, upright front three-quarter view, orange accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_frozen_dagger",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-005a43d7-f74c-4e2f-9b21-f5b51ad7dbc8.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_frozen_dagger.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Frozen Dagger: short translucent icy dagger with jagged cyan blade, silver guard and frost wrapped grip. A single complete object, upright front three-quarter view, cyan accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_forest_axe",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-70a6f9df-0aca-4d22-b1f5-551ba676daf8.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_forest_axe.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Forest Axe: one edged silver axe with carved wooden handle wrapped in roots, emerald leaf decorations. A single complete object, upright front three-quarter view, emerald accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_royal_blade",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-c0b7b099-aa4e-4c9b-922d-3f9a06a8e023.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_royal_blade.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Royal Blade: elegant silver longsword with ornate golden crossguard, emerald jewel and engraved blade. A single complete object, upright front three-quarter view, mint accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_sylvan_crown",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-e8bc79d2-400a-466d-8834-d17340e5f093.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_sylvan_crown.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Sylvan Crown: elegant crown woven from golden branches and jade leaves, central emerald gemstone. A single complete object, upright front three-quarter view, emerald accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_ancient_sword",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-78639652-fa5d-4059-a813-0504a692cda9.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_ancient_sword.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Ancient Sword: antique engraved bronze and silver sword, sandstone patina and amber gemstone. A single complete object, upright front three-quarter view, gold accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_kings_hammer",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-68b4c2ba-0285-490c-94d6-e7c505165e1d.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_kings_hammer.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. King's Hammer: huge royal golden square hammer head embossed with sun emblem and rich burgundy grip. A single complete object, upright front three-quarter view, gold accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_star_blade",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-fc3aeb9e-954c-4eff-926b-29b36c915622.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_star_blade.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Star Blade: celestial silver sword with deep violet blade inlay, star engravings and glowing purple gemstone. A single complete object, upright front three-quarter view, violet accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_void_spear",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-c3cae522-6b23-4bb8-b65c-933c4d5a37b6.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_void_spear.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Void Spear: alien black metal spear with luminous violet split spearhead, sleek cosmic design. A single complete object, upright front three-quarter view, violet accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_root_blade",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-8a641c9a-9def-456d-88a8-9c5c17b66c7d.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_root_blade.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Root Blade: sword grown from twisted dark wood and silver, green vine wrapped grip, emerald gemstone. A single complete object, upright front three-quarter view, emerald accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_golden_crown",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-bf67ddaf-98af-4d4f-bdf4-ceffe1034fdc.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_golden_crown.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Golden Crown: magnificent gold royal crown with five tall points and amber and ruby gemstones. A single complete object, upright front three-quarter view, gold accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "rock_ice",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-ac5a9e66-cd7b-4e88-99b2-aa05eb89a611.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\rock_ice.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated foreground boulder sprite, transparent background, square image. One squat wide chunky translucent blue ice boulder. Viewed from front and slightly above, flat-ish top with a small dark central slit where a weapon is embedded. Main rock centered in middle 70% width and 50% height of image. NO weapon, no sword, no backdrop, no terrain. Strong faceted shape with polished hand painted texture."
+    },
+    {
+      "name": "relic_ice_axe",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-641c8993-7c48-462d-8953-3490184ffbbe.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_ice_axe.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Ice Axe: asymmetrical battle axe with broad translucent blue ice edge and silver frozen shaft. A single complete object, upright front three-quarter view, cyan accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_emerald_staff",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-5f3042ff-ad77-4f34-9067-9307ee989f3f.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_emerald_staff.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Emerald Staff: long carved wooden magic staff crowned by large floating emerald crystal held in gold branches. A single complete object, upright front three-quarter view, emerald accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "relic_sun_relic",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-1abeeba3-dd9c-4f14-adce-05d3504c84f2.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_sun_relic.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Sun Relic: circular ancient golden sun talisman with radial rays, bright amber crystal center. A single complete object, upright front three-quarter view, gold accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "rock_forest",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-561530d2-b49a-47df-ab6e-75df3286b23e.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\rock_forest.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated foreground boulder sprite, transparent background, square image. One squat wide chunky old brown stone encased in twisted emerald roots. Viewed from front and slightly above, flat-ish top with a small dark central slit where a weapon is embedded. Main rock centered in middle 70% width and 50% height of image. NO weapon, no sword, no backdrop, no terrain. Strong faceted shape with polished hand painted texture."
+    },
+    {
+      "name": "relic_alien_tool",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-601c55a7-d641-4dfb-bd9e-fe0f0d3637c2.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_alien_tool.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Alien Tool: mysterious alien asymmetric pickaxe tool with purple energy core and floating silver metal prongs. A single complete object, upright front three-quarter view, violet accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "rock_kingdom",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-be564b56-33bf-47e6-a819-f8c3a5316dea.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\rock_kingdom.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated foreground boulder sprite, transparent background, square image. One squat wide chunky golden sandstone boulder with ancient carved symbols. Viewed from front and slightly above, flat-ish top with a small dark central slit where a weapon is embedded. Main rock centered in middle 70% width and 50% height of image. NO weapon, no sword, no backdrop, no terrain. Strong faceted shape with polished hand painted texture."
+    },
+    {
+      "name": "relic_cosmic_relic",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-d48938b0-2e55-47bb-920d-05d18d5f3b53.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\relic_cosmic_relic.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated game inventory sprite with true transparent background. Cosmic Relic: floating celestial gold and silver astrolabe crown, concentric orbital rings around amethyst crystal. A single complete object, upright front three-quarter view, violet accent color. For weapons: handle toward TOP, blade or shaft pointing DOWN (sword-in-stone orientation). For crowns and talismans: normal upright orientation. Full object fully visible, centered, 12% clear margin on all sides, no ground, NO stone, NO background, no shadow plane. Crisp smooth alpha edges. Square image."
+    },
+    {
+      "name": "rock_volcano",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-24271985-8ebb-4977-80a7-557e9214ee64.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\rock_volcano.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated foreground boulder sprite, transparent background, square image. One squat wide chunky dark basalt rock with orange molten fissures. Viewed from front and slightly above, flat-ish top with a small dark central slit where a weapon is embedded. Main rock centered in middle 70% width and 50% height of image. NO weapon, no sword, no backdrop, no terrain. Strong faceted shape with polished hand painted texture."
+    },
+    {
+      "name": "cracks_2",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-48d01a6a-a493-4b65-a622-cf9071b67a01.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\cracks_2.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: transparent square crack overlay texture for game boulder. ONLY medium branching fractured stone lines radiating from center. Dark nearly black navy fissures with subtle light edge and faint gold sparkle. Centered radial organic fracture network filling middle 75% of square. Actual transparent background between all cracks. NO stone surface, NO solid object, NO backdrop, no outer frame."
+    },
+    {
+      "name": "rock_valley",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-daea8f08-55e2-4bd4-a89d-da7346fc27a5.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\rock_valley.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated foreground boulder sprite, transparent background, square image. One squat wide chunky mossy dark gray stone. Viewed from front and slightly above, flat-ish top with a small dark central slit where a weapon is embedded. Main rock centered in middle 70% width and 50% height of image. NO weapon, no sword, no backdrop, no terrain. Strong faceted shape with polished hand painted texture."
+    },
+    {
+      "name": "ui_upgrade",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-8bb0fb13-2c61-4666-a811-b1015ba96039.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\ui_upgrade.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: ONE isolated game UI icon on true transparent background. Subject: golden upward double chevron with mint jewel. Bold simple easily readable at 32 pixels, closeup centered, thick silhouette, soft 3D bevels, fills central 75% of square, no drop shadow outside silhouette, no background tile. Square."
+    },
+    {
+      "name": "cracks_1",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-79d279b8-842e-4770-812f-1fab83d60ed9.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\cracks_1.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: transparent square crack overlay texture for game boulder. ONLY few thin branching hairline fractures. Dark nearly black navy fissures with subtle light edge and faint gold sparkle. Centered radial organic fracture network filling middle 75% of square. Actual transparent background between all cracks. NO stone surface, NO solid object, NO backdrop, no outer frame."
+    },
+    {
+      "name": "cracks_3",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-69afb2c4-bfd5-4c0b-bc6e-7708aa25891b.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\cracks_3.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: transparent square crack overlay texture for game boulder. ONLY large extensive deep branching shattered fractures with tiny chips. Dark nearly black navy fissures with subtle light edge and faint gold sparkle. Centered radial organic fracture network filling middle 75% of square. Actual transparent background between all cracks. NO stone surface, NO solid object, NO backdrop, no outer frame."
+    },
+    {
+      "name": "ui_combo",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-d1f45991-8468-4d84-a9f1-37d50239552f.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\ui_combo.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: ONE isolated game UI icon on true transparent background. Subject: three curved golden speed streaks around turquoise fist. Bold simple easily readable at 32 pixels, closeup centered, thick silhouette, soft 3D bevels, fills central 75% of square, no drop shadow outside silhouette, no background tile. Square."
+    },
+    {
+      "name": "ui_sword",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-8492d4e8-d7cc-4e81-aa0c-2245f4951cc0.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\ui_sword.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: ONE isolated game UI icon on true transparent background. Subject: silver sword with gold guard and turquoise jewel. Bold simple easily readable at 32 pixels, closeup centered, thick silhouette, soft 3D bevels, fills central 75% of square, no drop shadow outside silhouette, no background tile. Square."
+    },
+    {
+      "name": "ui_settings",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-250d3fd0-b977-45db-96f6-160908808108.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\ui_settings.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: ONE isolated game UI icon on true transparent background. Subject: polished bronze cogwheel with turquoise crystal hub. Bold simple easily readable at 32 pixels, closeup centered, thick silhouette, soft 3D bevels, fills central 75% of square, no drop shadow outside silhouette, no background tile. Square."
+    },
+    {
+      "name": "fx_shard",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-ebce8ba2-0185-484a-a9da-4f89e94caf24.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\fx_shard.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated particle sprite on true transparent background. one small angular gray stone fragment, golden edge, slightly rotated. One object centered, clean alpha, no backdrop. Square."
+    },
+    {
+      "name": "ui_collection",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-33eacfac-d310-4d2e-89bd-7b5298c116ca.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\ui_collection.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: ONE isolated game UI icon on true transparent background. Subject: ancient golden open treasure chest with turquoise gems. Bold simple easily readable at 32 pixels, closeup centered, thick silhouette, soft 3D bevels, fills central 75% of square, no drop shadow outside silhouette, no background tile. Square."
+    },
+    {
+      "name": "ui_auto",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-6baeee86-25f4-420d-aa06-7fba51f8d329.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\ui_auto.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: ONE isolated game UI icon on true transparent background. Subject: blue magical spirit flame with tiny golden ring. Bold simple easily readable at 32 pixels, closeup centered, thick silhouette, soft 3D bevels, fills central 75% of square, no drop shadow outside silhouette, no background tile. Square."
+    },
+    {
+      "name": "ui_smith",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-e61d0a9b-7d75-42fe-baf8-e7c76ad8f46d.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\ui_smith.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: ONE isolated game UI icon on true transparent background. Subject: silver war hammer striking gold anvil with one orange spark. Bold simple easily readable at 32 pixels, closeup centered, thick silhouette, soft 3D bevels, fills central 75% of square, no drop shadow outside silhouette, no background tile. Square."
+    },
+    {
+      "name": "ui_critical",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-92e23927-caaa-45f9-a03e-f26e06afd30d.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\ui_critical.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: ONE isolated game UI icon on true transparent background. Subject: sharp golden lightning bolt inside red gemstone starburst. Bold simple easily readable at 32 pixels, closeup centered, thick silhouette, soft 3D bevels, fills central 75% of square, no drop shadow outside silhouette, no background tile. Square."
+    },
+    {
+      "name": "fx_spark",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-7dccf244-00d0-4b8a-ac9f-6c402ba91ba5.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\fx_spark.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated particle sprite on true transparent background. one glowing four pointed turquoise magical sparkle with warm white core. One object centered, clean alpha, no backdrop. Square."
+    },
+    {
+      "name": "rock_cosmic",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-2b5228d7-59cf-4904-8b07-fad14a199489.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\rock_cosmic.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: isolated foreground boulder sprite, transparent background, square image. One squat wide chunky purple meteorite with violet crystal inclusions. Viewed from front and slightly above, flat-ish top with a small dark central slit where a weapon is embedded. Main rock centered in middle 70% width and 50% height of image. NO weapon, no sword, no backdrop, no terrain. Strong faceted shape with polished hand painted texture."
+    },
+    {
+      "name": "ui_coin",
+      "path": "C:\\Users\\User\\.codex\\generated_images\\01a10d11-b8a5-7db3-83ce-3807880c4311\\exec-d420caa2-d254-47d3-8fde-1beab418443e.png",
+      "dest": "C:\\Users\\User\\AndroidStudioProjects\\PulltheSword\\app\\src\\main\\res\\drawable-nodpi\\ui_coin.png",
+      "prompt": "Style bible for Pull the Relic mobile fantasy game: premium stylized 3D hand-painted game art, chunky readable forms, polished materials, dark navy shadows, gold highlights, jewel-like colored light, elegant high quality, coherent with a golden sword and turquoise magic launcher icon. No text, letters, UI, watermark or frames. Asset: ONE isolated game UI icon on true transparent background. Subject: single round thick gold coin with embossed diamond emblem. Bold simple easily readable at 32 pixels, closeup centered, thick silhouette, soft 3D bevels, fills central 75% of square, no drop shadow outside silhouette, no background tile. Square."
+    }
+  ]
+}
